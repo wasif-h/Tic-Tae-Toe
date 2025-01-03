@@ -10,7 +10,7 @@ int main()
 
     cout << "---- Code with Wasif ----\n\n";
 
-    cout << "Tic Tac TOe game";
+    cout << "Tic Tac Toe game" << endl;
 
 
 
